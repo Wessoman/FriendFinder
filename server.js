@@ -28,6 +28,7 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 // ROUTER
 // The below points our server to a series of "route" files.
 // These routes give our server a "map" of how to respond when users visit or request data from various URLs.
+// Note that the API routes are in a seperate folder invisible to the user
 // ================================================================================
 
 require("./app/routing/apiRoutes")(app);
