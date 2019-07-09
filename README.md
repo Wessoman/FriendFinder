@@ -8,3 +8,4 @@ A wonderful attempt at a friend-finding/Dating app
 .06-07 Survey and Friend data part 1.
 .08 Post MVP?--Friends list
 .09 Friends list revision
+.10 Heroku Redeploy
