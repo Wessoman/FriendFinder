@@ -7,7 +7,7 @@
 var userData = [
 	{
 	  "name": "Sweet Dee",
-	  "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+	  "photo": "https://imgix.bustle.com/2017/1/4/4aab375c-6513-46e9-a4bc-7db3763e86c2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
 	  "scores":[
 		  5,
 			1,
@@ -23,7 +23,7 @@ var userData = [
 	},
 	{
 	  "name": "Gaius Baltar",
-	  "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+	  "photo": "https://external-preview.redd.it/5sNAr_AxE0SsCH5VqdtAKgYMrMWPgGC4FBDegeIhVJ0.jpg?width=640&crop=smart&auto=webp&s=bee3c8354d94a5cd74177935ff10da5e5c4063e8",
 	  "scores":[
 		  5,
 		  2,
@@ -39,7 +39,7 @@ var userData = [
 	},
 	{
 	  "name": "Haman Karn",
-	  "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+	  "photo": "https://s1.zerochan.net/Haman.Karn.600.435407.jpg",
 	  "scores":[
 		  1,
 		  1,
@@ -55,7 +55,7 @@ var userData = [
 	}
   ];	{
 	"name": "John Bigboote",
-	"photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+	"photo": "https://media.gettyimages.com/photos/cosplayer-todd-dressed-as-john-bigboote-portrayed-by-christopher-picture-id451097776?s=640x640",
 	"scores":[
 		3,
 		3,
