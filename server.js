@@ -36,6 +36,7 @@ require("./app/routing/htmlRoutes")(app);
 // ==============================================================================
 // LISTENER
 // The below code effectively "starts" our server
+// Nothing happens until the port is listened to by the application.
 // ==============================================================================
 
 app.listen(PORT, function() {
