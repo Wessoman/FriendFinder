@@ -52,8 +52,8 @@ var userData = [
 		  1,
 		  1
 	  ]
-	}
-  ];	{
+	},
+  	{
 	"name": "John Bigboote",
 	"photo": "https://media.gettyimages.com/photos/cosplayer-todd-dressed-as-john-bigboote-portrayed-by-christopher-picture-id451097776?s=640x640",
 	"scores":[
